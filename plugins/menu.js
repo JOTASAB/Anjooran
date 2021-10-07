@@ -7,7 +7,10 @@ const Lang = Language.getString('wallpaper');
 
 Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (message, match) => {
 
-   
+   var r_text = new Array ();
+    
+    
+    r_text[0] = "https://www.pixelstalk.net/wp-content/uploads/images4/4K-Backgrounds-1-scaled.jpg";
     
     
     var i = Math.floor(1*Math.random())
