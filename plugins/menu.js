@@ -7,7 +7,7 @@ const Lang = Language.getString('wallpaper');
 
 Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (message, match) => {
 
-   var r_text = new Array ();
+    var r_text = new Array ();
     
     
     r_text[0] = "https://www.pixelstalk.net/wp-content/uploads/images4/4K-Backgrounds-1-scaled.jpg";
@@ -17,8 +17,7 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `💖⤏❦︎-𝑴𝒐𝒏𝒖𝒛-❦︎⤎💖
-
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `⛦━━━━━✨️Ameer Suhail✨️━━━━━⛦
 
 
 𝐇𝐞𝐥𝐥𝐨👋 𝐈 𝐚𝐦 Monuzz 𝐛𝐨𝐭.
