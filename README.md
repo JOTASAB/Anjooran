@@ -1,6 +1,6 @@
 ></a>
 <div align="center">
-        <img src="IMG-electro.jpg" alt="GIF" width="250" height="200"/>
+        <img src="IMG-monuzz.jpg" alt="GIF" width="250" height="200"/>
 </p>
 
 <div align="center">
