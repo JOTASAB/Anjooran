@@ -11,14 +11,14 @@
 </p>
 <div align="center">
  <p align="center">
-<a href="#"><img title="yazeen" src="https://img.shields.io/badge/yazeen-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Anandh" src="https://img.shields.io/badge/Anandh-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/yazeen-chunda"><img title="Author" src="https://img.shields.io/badge/Author-yazeen-chunda/yazeens_bot?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Monuzz-Mkz"><img title="Author" src="https://img.shields.io/badge/Author-Monuzz-Mkz/monuzz?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/yazeen-chunda">yazeen-chunda</a> to make it public
+Project created by <a href="https://github.com/Monuzz-Mkz">Monuzz-Mkz</a> to make it public
     <br>
        | © |
         Reserved |
@@ -34,7 +34,7 @@ Project created by <a href="https://github.com/yazeen-chunda">yazeen-chunda</a> 
   
 [![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/yazeen-chunda/yazeens_bot.git)
+[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/Monuzz-Mkz/monuzz.git)
      </div>
 <br>
 <br >
@@ -54,8 +54,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/yazeen-chunda/yazeens_bot
-$ cd yazeens_bot
+$ git clone https://github.com/Monuzz-Mkz/monuzz
+$ cd monuzz
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -64,8 +64,8 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/yazeen-chunda/yazeens_bot
-$ cd yazeens_bot
+$ git clone https://github.com/Monuzz-Mkz/monuzz
+$ cd monuzz
 $ chmod +x *
 $ npm i
 $ node qr.js
@@ -78,16 +78,16 @@ $ node bot.js
 ```
 Due to Whatsapp bot; Your WhatsApp account may be banned.
 This is an open source project, you are responsible for everything you do. 
-Absolutely, yazeens_bot executives do not accept responsibility.
-By establishing the yazeens_bot, you are deemed to have accepted these responsibilities.
+Absolutely, monuzz executives do not accept responsibility.
+By establishing the monuzz, you are deemed to have accepted these responsibilities.
 ```
 
 ## Developers
   <div align="center">
     
-  [![yazeen-chunda](https://github.com/yazeen-chunda.png?size=100)](https://github.com/yazeen-chunda) |  [![Hisham-Muhammed](https://github.com/Hisham-Muhammed.png?size=100)](https://github.com/Hisham-Muhammed) | [![saidalisaid2](https://github.com/saidalisaid2.png?size=100)](https://github.com/saidalisaid2) | [![Souravkl11](https://github.com/souravkl11.png?size=100)](https://github.com/souravkl11) 
+  [![Monuzz-Mkz](https://github.com/Monuzz-Mkz.png?size=100)](https://github.com/Monuzz-Mkz) |  [![Hisham-Muhammed](https://github.com/Hisham-Muhammed.png?size=100)](https://github.com/Hisham-Muhammed) | [![saidalisaid2](https://github.com/saidalisaid2.png?size=100)](https://github.com/saidalisaid2) | [![Souravkl11](https://github.com/souravkl11.png?size=100)](https://github.com/souravkl11) 
 ----|----|----|----
-[Ameer Suhail](https://github.com/yazeen-chunda) | [Hisham-Muhammed](https://github.com/Hisham-Muhammed) | [saidalisaid2](https://github.com/saidalisaid2) | [Souravkl11](https://github.com/souravkl11/Raganork)
+[Ameer Suhail](https://github.com/Monuzz-Mkz) | [Hisham-Muhammed](https://github.com/Hisham-Muhammed) | [saidalisaid2](https://github.com/saidalisaid2) | [Souravkl11](https://github.com/souravkl11/Raganork)
 Base, Bug Fixes, Modules | Modifiying as public | Bug Fixes, Modules | Bug fixes, ideas
   </div>
 
