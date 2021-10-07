@@ -118,7 +118,7 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
 
 ➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜  -anime <text>
 🍙𝙐𝙨𝙚➜  Gives you info about anime.
-⚠️anime pikachu
+⚠️anime Aswathy 
 ■□■□■□■□■MONUZZ□■□■□■□■□■□
 ♝ *𝙎𝙩𝙞𝙘𝙠𝙚𝙧 𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙨* ♝
 
@@ -130,7 +130,7 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
 
 ➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -attp <text>
 🍙𝙐𝙨𝙚➜ Converts text into glowing sticker.
-⚠️ex  attp pikachu
+⚠️ex  attp Aswathy
 ■□■□■□■□■□■□■□■□■□■□
 ═════💢MONUZZ💢═════
 ▣▣▣▣▣▣▣▣▣by Anandh Saji▣▣▣▣▣▣▣▣▣▣▣
