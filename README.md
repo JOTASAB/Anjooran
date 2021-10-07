@@ -1,11 +1,11 @@
 ></a>
 <div align="center">
-        <img src="IMG-yazeen.jpg" alt="GIF" width="250" height="200"/>
+        <img src="IMG-electro.jpg" alt="GIF" width="250" height="200"/>
 </p>
 
 <div align="center">
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+yazeens_bot+WA+Bot+repo;Created+by+Muhammed+yazeen;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/2VM4lxF)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+monuzz+WA+Bot+repo;Created+by+Anandh;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/2VM4lxF)
 
  </a>
 </p>
