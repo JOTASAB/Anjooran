@@ -19,11 +19,9 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `*My creator is  Muhammed yazeen*
-*Creator number : wa.me/+919074197522?text=Hi%20Muhammed%20yazeen.%20*
-*Bot setting video : https://youtu.be/_D4ZYuUSXjs*
-*Githublink (Setup)  :    https://github.com/yazeen-chunda/yazeens_bot/edit/master/plugins/git.js*
-*Audio commads :   https://github.com/yazeen-chunda/yazeens_bot/tree/master/uploads*
-*Sticker commads : https://github.com/yazeen-chunda/yazeens_bot/tree/master/uploads*
+*Creator number : wa.me/+918848120533?text=Hi%20bro%20💝.%20*
+*Bot setting video : Not Available*
+*Githublink (Setup)  :  Contacts me
 `}) 
 
 }));
